@@ -1,0 +1,18 @@
+[2024-08-13 19:04:19] [ INFO ] [OdontologoDaoH2:46] [registrar] Odontologo guardado con éxito: Odontologo{id=3, matricula=555, nombre='Odontologo', apellido='Uno'}
+[2024-08-13 19:05:33] [ INFO ] [OdontologoDaoH2:46] [registrar] Odontologo guardado con éxito: Odontologo{id=3, matricula=666, nombre='María', apellido='Perez'}
+[2024-08-13 19:07:51] [ INFO ] [OdontologoDaoH2:46] [registrar] Odontologo guardado con éxito: Odontologo{id=3, matricula=666, nombre='María', apellido='Perez'}
+[2024-08-13 19:15:07] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] La entidad ha sido guardada con éxito: Odontologo{id=1, matricula=123, nombre='Francisco', apellido='Asis'}
+[2024-08-13 19:17:11] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] La entidad ha sido guardada con éxito: Odontologo{id=1, matricula=12345, nombre='Juan', apellido='Pérez'}
+[2024-08-13 19:17:11] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] La entidad ha sido guardada con éxito: Odontologo{id=2, matricula=67890, nombre='Ana', apellido='Gómez'}
+[2024-08-13 19:17:54] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] La entidad ha sido guardada con éxito: Odontologo{id=1, matricula=12345, nombre='Juan', apellido='Pérez'}
+[2024-08-13 19:17:54] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] La entidad ha sido guardada con éxito: Odontologo{id=2, matricula=67890, nombre='Ana', apellido='Gómez'}
+[2024-08-13 19:23:58] [ INFO ] [OdontologoDaoH2:91] [listarTodos] Odontologo{id=1, matricula=12345, nombre='ANDRES', apellido='FERRADA'}
+[2024-08-13 19:23:59] [ INFO ] [OdontologoDaoH2:91] [listarTodos] Odontologo{id=2, matricula=67890, nombre='ELIAS', apellido='HERNANDEZ'}
+[2024-08-13 19:30:19] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] Odontólogo ha sido guardado con éxito: Odontologo{id=1, matricula=123, nombre='Francisco', apellido='Asis'}
+[2024-08-13 19:30:28] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] Odontólogo ha sido guardado con éxito: Odontologo{id=1, matricula=123, nombre='Francisco', apellido='Asis'}
+[2024-08-13 19:30:28] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] Odontólogo ha sido guardado con éxito: Odontologo{id=1, matricula=12345, nombre='Juan', apellido='Pérez'}
+[2024-08-13 19:30:28] [ INFO ] [OdontologoDaoEnMemoria:20] [registrar] Odontólogo ha sido guardado con éxito: Odontologo{id=2, matricula=67890, nombre='Ana', apellido='Gómez'}
+[2024-08-13 19:30:42] [ INFO ] [OdontologoDaoH2:46] [registrar] Odontólogo guardado con éxito: Odontologo{id=3, matricula=666, nombre='María', apellido='Perez'}
+[2024-08-13 19:30:42] [ INFO ] [OdontologoDaoH2:91] [listarTodos] Odontologo{id=1, matricula=12345, nombre='ANDRES', apellido='FERRADA'}
+[2024-08-13 19:30:42] [ INFO ] [OdontologoDaoH2:91] [listarTodos] Odontologo{id=2, matricula=67890, nombre='ELIAS', apellido='HERNANDEZ'}
+[2024-08-13 19:30:42] [ INFO ] [OdontologoDaoH2:91] [listarTodos] Odontologo{id=3, matricula=666, nombre='María', apellido='Perez'}
